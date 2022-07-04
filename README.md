@@ -1,2 +1,1 @@
-#Confluence page
-https://skedulo.atlassian.net/wiki/spaces/GCS/pages/2110259307/BE+Team+Assets
+#Please download the zip file, unzip and start playing around with the codes.
